@@ -21,9 +21,12 @@
         fill="#EB7F11"
         filter="url(#amberGlow)">
     CHANGRUN JIA
-    <animate attributeName="opacity"
-             values="0.25;1;0.25"
-             dur="4.8s"
-             repeatCount="indefinite"/>
-  </text>
+  <animate attributeName="opacity"
+           values="0.25;1;0.25"
+           keyTimes="0;0.5;1"
+           calcMode="spline"
+           keySplines="0.75 0 0.25 1; 0.75 0 0.25 1"
+           dur="3.8s"
+           repeatCount="indefinite"/>
+    </text>
 </svg>

@@ -22,8 +22,8 @@
         filter="url(#amberGlow)">
     CHANGRUN JIA
     <animate attributeName="opacity"
-             values="0.55;1;0.55"
-             dur="2.8s"
+             values="0.25;1;0.25"
+             dur="4.8s"
              repeatCount="indefinite"/>
   </text>
 </svg>

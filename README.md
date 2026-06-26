@@ -1,4 +1,9 @@
 # Changrun Jia Research Portfolio
+<p align="center">
+  <a href="https://Cgrun.github.io">
+    <img src="./assets/glow-title.svg" alt="Personal Research Portfolio" />
+  </a>
+</p>
 
 Modern single-page research portfolio for Changrun Jia, built with React, TypeScript, Vite, and GitHub Pages.
 

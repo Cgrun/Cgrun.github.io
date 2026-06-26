@@ -43,8 +43,8 @@
         opacity="0.9">
     CHANGRUN JIA
     <animate attributeName="opacity"
-             values="0.72;1;0.72"
-             dur="3.8s"
+             values="0.52;1;0.52"
+             dur="4s"
              repeatCount="indefinite"/>
   </text>
 
@@ -57,8 +57,8 @@
         opacity="0.18">
     CHANGRUN JIA
     <animate attributeName="opacity"
-             values="0.72;1;0.72"
-             dur="3.8s"
+             values="0.52;1;0.52"
+             dur="4s"
              repeatCount="indefinite"/>
   </text>
 </svg>

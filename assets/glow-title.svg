@@ -29,4 +29,12 @@
            dur="3.8s"
            repeatCount="indefinite"/>
     </text>
+    <text x="50%" y="88"
+        text-anchor="middle"
+        font-family="Courier New, monospace"
+        font-size="14"
+        fill="#d8942a"
+        opacity="0.82">
+    https://cgrun.github.io
+  </text>
 </svg>

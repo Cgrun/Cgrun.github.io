@@ -22,9 +22,10 @@
         filter="url(#amberGlow)">
     CHANGRUN JIA
   <animate attributeName="opacity"
-           values="0;1;0"
+           values="0.55;1;0.55"
            keyTimes="0;0.5;1"
            calcMode="spline"
+           keySplines="0.6 0 0.4 1; 0.6 0 0.4 1"
            dur="3.8s"
            repeatCount="indefinite"/>
     </text>

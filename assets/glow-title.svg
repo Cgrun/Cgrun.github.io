@@ -25,7 +25,6 @@
            values="0;1;0"
            keyTimes="0;0.5;1"
            calcMode="spline"
-           keySplines="0.75 0 0.25 1; 0.75 0 0.25 1"
            dur="3.8s"
            repeatCount="indefinite"/>
     </text>

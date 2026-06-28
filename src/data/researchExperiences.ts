@@ -47,7 +47,7 @@ export const researchExperiences: ResearchExperience[] = [
       "Designed and implemented comparative experiments for aerial scene classification using KANs and more than ten hybrid deep learning models.",
       "Built the full experimental pipeline, including image preprocessing, feature modelling, model training, evaluation, and comparative analysis.",
       "Explored neural architecture design and model comparison for visual representation learning in remote sensing image classification.",
-      "Developed a KAN-based hybrid model that achieved a peak classification accuracy of 97.67%.",
+      "Developed a KAN-based hybrid model that achieved a peak classification F1 of 0.8880.",
     ],
     tags: ["KANs", "Aerial Scene Classification", "Representation Learning", "Neural Architecture Design"],
   },
